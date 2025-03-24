@@ -1,4 +1,4 @@
-✅ Popular crypto miners with exe only 
+# ✅ Popular crypto miners with exe only 
 
 - **I am NOT responsible for how these are used.**
 - Files are taken directly from offical sources
