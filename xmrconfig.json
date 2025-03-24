@@ -1,0 +1,24 @@
+{
+    "autosave": true,
+    "cpu": {
+        "enabled": true,
+        "priority": 1,
+        "threads": [
+            { "low_power_mode": false, "affinity": -1 },
+            { "low_power_mode": false, "affinity": -1 }
+        ],
+        "max-threads-hint": 50,
+        "asm": true,
+        "cn/0": true,
+        "yield": true
+    },
+    "pools": [
+        {
+            "url": "xmrpool.eu:5555",
+            "user": "46JoyQMZdQHZh5jRAUUjfS3RYvxVMV9NoNCR5RrPf4jqfhJh61UD4ywF8xauFwVeZWPw3sbHvsZEm3xoU2v89CWg4tbugYK", // Change this to your XMR wallet address!
+            "pass": "x",
+            "rig-id": "default",
+            "nicehash": false
+        }
+    ]
+}
