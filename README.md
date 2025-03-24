@@ -6,5 +6,6 @@
 
 # Links to repos:
 🔗 **https://github.com/Lolliedieb/lolMiner-releases**
+
 🔗 **https://github.com/xmrig/xmrig/releases**
 
