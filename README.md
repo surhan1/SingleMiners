@@ -1,2 +1,2 @@
-# if u only need lolminers exe by itself 👍
+# Popular crypto miners with exe only
 🔗 **https://github.com/Lolliedieb/lolMiner-releases**
